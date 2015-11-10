@@ -1,0 +1,1 @@
+{color:{a:1,b:0.48,g:0.28,r:0.68},stats:{},nome:Nicolas,itens:[null,null,null,null]}

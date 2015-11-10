@@ -1,0 +1,1 @@
+{color:{a:1,b:0.04,g:0.91999996,r:0.84},stats:{},classe:Arqueiro,nome:Arqueiro,itens:[null,null,null,null]}

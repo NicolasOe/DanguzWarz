@@ -1,0 +1,1 @@
+{stats:{agilidade:500,carisma:7.3,movimento:3},nome:DangusAserSalvo,itens:[null,null,null,null]}

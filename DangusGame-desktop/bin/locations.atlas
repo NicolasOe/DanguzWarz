@@ -1,0 +1,26 @@
+
+locations.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ruins
+  rotate: false
+  xy: 1, 1
+  size: 300, 256
+  orig: 300, 256
+  offset: 0, 0
+  index: -1
+mine
+  rotate: false
+  xy: 303, 85
+  size: 255, 172
+  orig: 256, 256
+  offset: 0, 1
+  index: -1
+blacksmith
+  rotate: false
+  xy: 560, 85
+  size: 191, 172
+  orig: 201, 183
+  offset: 4, 5
+  index: -1
